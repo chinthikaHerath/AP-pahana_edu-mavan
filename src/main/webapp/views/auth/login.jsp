@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agent Login - Pahana Edu Online Billing System</title>
     
-    <!--  CSS -->
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/bootstrap.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/style.css">
@@ -18,10 +18,10 @@
     
     <style>
         :root {
-            --primary-color: #1976D2;
-            --primary-dark: #0D47A1;
-            --primary-light: #42A5F5;
-            --secondary-color: #64B5F6;
+            --primary-color: #19D467;
+            --primary-dark: #0DA35B;
+            --primary-light: #41F793;
+            --secondary-color: #64F89C;
             --success-color: #4CAF50;
             --error-color: #F44336;
             --warning-color: #FF9800;
@@ -445,7 +445,7 @@
             width: 100%;
             height: 52px;
             background: var(--primary-color);
-            color: white;
+            color: #1a1a1a;
             border: none;
             border-radius: var(--border-radius);
             font-size: 16px;
