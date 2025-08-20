@@ -321,7 +321,7 @@
                         
                         <hr class="my-4">
                         
-                        <!-- Purchase Summary Section -->
+                        <!-- Purchase Summary  -->
                         <div class="row">
                             <div class="col-md-12">
                                 <h5 class="mb-4">Purchase Summary</h5>
