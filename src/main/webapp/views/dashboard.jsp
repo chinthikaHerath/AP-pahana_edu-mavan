@@ -33,7 +33,7 @@
             --accent-green: #00FF00;    /* Bright green */
             --accent-orange: #FFA500;   /* Bright orange */
             --accent-red: #FF0000;      /* Bright red */
-
+           
         }
         
         body {
