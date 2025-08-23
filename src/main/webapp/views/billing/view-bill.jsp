@@ -45,7 +45,7 @@
         
         /* Bill Header */
         .bill-header {
-            background: linear-gradient(135deg, var(--brown-primary) 0%, var(--brown-medium) 100%);
+            background: linear-gradient(135deg, #135F3C 0%, #3DA373 100%);
             color: white;
             padding: 2rem;
             border-radius: 10px 10px 0 0;
@@ -79,7 +79,7 @@
         }
         
         .card-header {
-            background: linear-gradient(135deg, var(--brown-primary) 0%, var(--brown-medium) 100%);
+            background: linear-gradient(135deg, #135F3C 0%, #3DA373 100%);
             color: white;
             font-weight: 500;
             border: none;
@@ -98,7 +98,7 @@
         }
         
         .customer-info-card .card-header {
-            background: linear-gradient(135deg, var(--brown-medium) 0%, var(--brown-light) 100%);
+            background: linear-gradient(135deg, #135F3C 0%, #0CC46E 100%);
         }
         
         /* Bill Info Rows */
@@ -126,7 +126,7 @@
         
         /* Items Table */
         .item-table thead th {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             color: white;
             font-weight: 500;
             border: none;
@@ -214,12 +214,12 @@
         }
         
         .btn-secondary {
-            background-color: var(--brown-light);
+            background-color: #135F3C;
             border-color: var(--brown-light);
         }
         
         .btn-secondary:hover {
-            background-color: var(--brown-medium);
+            background-color: #0CC46E;
             border-color: var(--brown-medium);
         }
         
@@ -252,7 +252,7 @@
         }
         
         .btn-outline-info:hover {
-            background-color: var(--brown-medium);
+            background-color: #0CC46E;
             border-color: var(--brown-medium);
             color: white;
         }

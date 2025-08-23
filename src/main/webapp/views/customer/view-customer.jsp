@@ -50,7 +50,7 @@
         }
         
         .card-header {
-            background: linear-gradient(135deg, var(--brown-primary) 0%, var(--brown-medium) 100%);
+            background: linear-gradient(135deg, #135F3C 0%, #0CC46E 100%);
             color: white;
             border: none;
             padding: 1rem 1.25rem;
@@ -162,14 +162,14 @@
         
         /* Buttons */
         .btn-primary {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             border-color: var(--brown-primary);
             color: white;
             font-weight: 500;
         }
         
         .btn-primary:hover {
-            background-color: var(--brown-dark);
+            background-color: #0CC46E;
             border-color: var(--brown-dark);
         }
         
@@ -185,14 +185,14 @@
         }
         
         .btn-secondary {
-            background-color: var(--brown-light);
+            background-color: #135F3C;
             border-color: var(--brown-light);
             color: white;
             font-weight: 500;
         }
         
         .btn-secondary:hover {
-            background-color: var(--brown-medium);
+            background-color: #0CC46E;
             border-color: var(--brown-medium);
         }
         

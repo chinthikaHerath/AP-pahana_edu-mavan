@@ -89,7 +89,7 @@
         }
         
         .card-header {
-            background: linear-gradient(135deg, var(--brown-primary) 0%, var(--brown-medium) 100%);
+            background: linear-gradient(135deg, #135F3C 0%, #0CC46E 100%);
             color: white;
             font-weight: 500;
             border: none;
@@ -179,7 +179,7 @@
         }
         
         .summary-card .card-header {
-            background: linear-gradient(135deg, var(--brown-dark) 0%, var(--brown-primary) 100%);
+            background: linear-gradient(135deg, #135F3C 0%, #0CC46E 100%);
             padding: 1.25rem;
         }
         
@@ -260,14 +260,14 @@
         
         /* Action Buttons in Summary */
         .summary-card .btn-primary {
-            background-color: var(--brown-primary);
+            background-color: #0CC46E;
             border: none;
             font-weight: 500;
             padding: 0.75rem;
         }
         
         .summary-card .btn-primary:hover {
-            background-color: var(--brown-dark);
+            background-color: #135F3C;
         }
         
         .summary-card .btn-outline-primary {
@@ -278,7 +278,7 @@
         }
         
         .summary-card .btn-outline-primary:hover {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             border-color: var(--brown-primary);
             color: white;
         }

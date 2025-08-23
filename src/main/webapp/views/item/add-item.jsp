@@ -51,7 +51,7 @@
         }
         
         .card-header {
-            background: linear-gradient(135deg, var(--brown-primary) 0%, var(--brown-medium) 100%);
+            background:linear-gradient(135deg, #135F3C 0%, #0CC46E 100%);
             color: white;
             border: none;
             padding: 1rem 1.25rem;
@@ -197,7 +197,7 @@
         
         /* Buttons */
         .btn-primary {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             border-color: var(--brown-primary);
             color: white;
             font-weight: 500;
@@ -206,14 +206,14 @@
         }
         
         .btn-primary:hover {
-            background-color: var(--brown-dark);
+            background-color: #0CC46E;
             border-color: var(--brown-dark);
             transform: translateY(-2px);
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
         
         .btn-secondary {
-            background-color: var(--brown-light);
+            background-color: #0CC46E;
             border-color: var(--brown-light);
             color: white;
             font-weight: 500;
@@ -222,7 +222,7 @@
         }
         
         .btn-secondary:hover {
-            background-color: var(--brown-medium);
+            background-color: #135F3C;
             border-color: var(--brown-medium);
         }
         
@@ -328,7 +328,7 @@
             <main class="px-md-4">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom border-brown">
                     <h1 class="h2 text-brown-dark fw-bold">
-                        <i class="fas fa-box-open me-2" style="color: var(--brown-medium);"></i>
+                        <i class="fas fa-box-open me-2" style="color: #135F3C;"></i>
                         Add New Item
                     </h1>
                     <div class="btn-toolbar mb-2 mb-md-0">

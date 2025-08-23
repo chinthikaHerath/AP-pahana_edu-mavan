@@ -55,7 +55,7 @@
         }
         
         .card-header {
-            background: linear-gradient(135deg, var(--brown-primary) 0%, var(--brown-medium) 100%);
+            background:  linear-gradient(135deg, #135F3C 0%, #0CC46E 100%);
             color: white;
             border: none;
             padding: 1rem 1.25rem;
@@ -237,7 +237,7 @@
         <main class="px-md-4">
             <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom border-brown">
                 <h1 class="h2 text-brown-dark fw-bold">
-                    <i class="fas fa-chart-pie me-2" style="color: var(--brown-medium);"></i>
+                    <i class="fas fa-chart-pie me-2" style="color: #135F3C;"></i>
                     Stock Report
                 </h1>
                 <div class="btn-toolbar mb-2 mb-md-0">

@@ -44,13 +44,13 @@
         }
         
         .btn-brown-primary {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             color: white;
             border: none;
         }
         
         .btn-brown-primary:hover {
-            background-color: var(--brown-dark);
+            background-color: #0CC46E;
             color: white;
         }
         
@@ -101,7 +101,7 @@
         
         /* Table Styling */
         .table thead th {
-            background-color: var(--brown-primary);
+            background-color: #08AB5F;
             color: white;
             font-weight: 500;
             border: none;
@@ -131,7 +131,7 @@
         
         /* Quick Filter Buttons */
         .btn-filter-active {
-            background-color: var(--brown-primary) !important;
+            background-color: #135F3C !important;
             color: white !important;
             border-color: var(--brown-primary) !important;
         }

@@ -138,7 +138,7 @@
         <div class="row">
             <div class="col-12">
                 <h2 class="mb-4 text-brown-dark">
-                    <i class="fas fa-question-circle" style="color: var(--brown-medium);"></i> Help & User Guide
+                    <i class="fas fa-question-circle" style="color: #135F3C;"></i> Help & User Guide
                 </h2>
                 
                 <!-- Quick Start Guide -->
@@ -147,7 +147,7 @@
                     <div class="card help-card">
                         <div class="card-body">
                             <h5 class="card-title text-brown-dark">
-                                <i class="fas fa-file-invoice" style="color: var(--brown-medium);"></i> Creating Your First Bill
+                                <i class="fas fa-file-invoice" style="color: #135F3C;"></i> Creating Your First Bill
                             </h5>
                             <ol class="mt-3">
                                 <li class="mb-2">
@@ -183,7 +183,7 @@
                     <div class="card help-card admin">
                         <div class="card-body">
                             <h5 class="card-title text-brown-dark">
-                                <i class="fas fa-user-shield" style="color: var(--brown-primary);"></i> Admin Features
+                                <i class="fas fa-user-shield" style="color: #135F3C;"></i> Admin Features
                             </h5>
                             <ul class="mt-3">
                                 <li>Full access to all system features</li>

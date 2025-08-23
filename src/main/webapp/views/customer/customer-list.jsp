@@ -45,13 +45,13 @@
         
         /* Button Styles */
         .btn-brown-primary {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             color: white;
             border: none;
         }
         
         .btn-brown-primary:hover {
-            background-color: var(--brown-dark);
+            background-color: #3DA373;
             color: white;
         }
         
@@ -74,7 +74,7 @@
         }
         
         .card-header {
-            background: linear-gradient(135deg, var(--brown-primary) 0%, var(--brown-medium) 100%);
+            background: linear-gradient(135deg, #135F3C 0%, #0CC46E 100%);
             color: white;
             border: none;
             padding: 1rem 1.25rem;
@@ -105,7 +105,7 @@
         
         /* Table Styling */
         .table thead th {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             color: white;
             font-weight: 500;
             border: none;
@@ -199,7 +199,7 @@
         }
         
         .btn-outline-secondary:hover {
-            background-color: var(--brown-medium);
+            background-color: #3DA373;
             border-color: var(--brown-medium);
             color: white;
         }
@@ -225,13 +225,13 @@
         
         /* Search Icon Button */
         .btn-search {
-            background-color: var(--brown-primary);
+            background-color: #135F3C;
             color: white;
             border-color: var(--brown-primary);
         }
         
         .btn-search:hover {
-            background-color: var(--brown-dark);
+            background-color: #3DA373;
             border-color: var(--brown-dark);
             color: white;
         }
